@@ -1,21 +1,25 @@
 Um programa de avaliação e cadastro de livros.
 Mithrandir Livros
-LEMA: Que se faça a imaginação!
+# CADASTRO
+## Seleção de ocupação
+|
+Bibliotecário(a) ou Leitor(a)? (B/L) (login com matrícula)
+|
 
 
-# cadastro 0
-Bibliotecário ou Leitor? (login com matrícula)
+## Verificação de matrícula
+|
+se matricula não existir
+encaminha p/ cadastro
+|
+se matricula existir encaminhar para menu de respectiva ocupação
 
-# cadastro 1
-se matricula não existir ir fazer login
-
-# cadastro 2
-Quando leitor ou bibliotecário for se cadastrar -> 
+## Criação de cadastro
 Nome, idade, leitor ou bibliotecário -> 
 se leitor -> fazer matricula de 6 digitos
 se bibliotecário -> fazer matricula de 4 digitos
 
-# cadastro 3
+## Finalização de cadastro
 MENSAGEM ( Bem Vindo(a) $NOME$!)
 MENSAGEM (Você agora é um(a) leitor(a) do Mithrandir Livros!)
 ou 
@@ -29,7 +33,11 @@ MENSAGEM (Você agora é um(a) bibliotecário(a) do Mithrandir Livros! Agradecem
 (deseja cadastrar mais algum autor? S) -> REPETE
 (deseja cadastrar mais algum autor? N) -> volta para menu
 
-2. Remover obra; 
+2. Remover obra;
+|
+pesquisa nome do autor
+remover? (S/N)
+|
 (deseja remover mais alguma obra? S) -> REPETE
 (deseja remover mais alguma obra? N) -> volta para menu
 
@@ -37,67 +45,65 @@ MENSAGEM (Você agora é um(a) bibliotecário(a) do Mithrandir Livros! Agradecem
 (opção para voltar para menu)
 
 4. Remover resenhas; 
+|
+pesquisa titulo da resenha
+remover? (S/N)
+|
 (deseja remover mais alguma resenha? S) -> REPETE
 (deseja remover mais alguma resenha? N) -> volta para menu
 
-6. sair; (volta para o login) 
+6. Sair;
+(volta para o login) 
 
 ## Leitor 
 1. Pesquisar autor(a); 
+|
+aparece nome e livros do autor
+|
 (deseja pesquisar mais algum autor? S) -> REPETE
 (deseja pesquisar mais algum autor? N) -> volta para menu
 
-2. Pesquisar livro; 
+2. Pesquisar livro;
+|
+aparece nome do livro juntamente com o nome do autor e data de publicação
+|
 (deseja pesquisar mais algum livro? S) -> REPETE
 (deseja pesquisar mais algum livro? N) -> volta para menu
 
 3. Ver últimas resenhas;
+|
+se tiver -> última resenhas em ordem de postagem
+se não-> (nenhuma resenha ainda...)
+|
 (opção para voltar para menu)
 
 4. Publicar Resenha;
+[titulo da resenha]
+[resenha... ]
 (deseja publicar mais alguma resenha? S) -> REPETE
 (deseja publicar mais alguma resenha? N) -> volta para menu
 
 
 5. Avaliar livro;
+|
+pesquisa livro
+atribuir nota ao livro
+|
 (deseja avaliar mais algum livro? S) -> REPETE
 (deseja avaliar mais algum livro? N) -> volta para menu
 
 
 6. Ver livros mais bem avaliados;
+|
+se tiver -> 5 mais bem avaliados
+se não-> (nenhum livro avaliado ainda...)
+|
 (opção para voltar para menu)
 
-7. sair; (volta para o login)
+7. sair;
+ (volta para o login)
 
-
-
-
-
-
-
-
-Resenhas -> 
-se tiver -> última resenhas em ordem de postagem
-se não-> (nenhuma resenha ainda...)
-
-se bibliotecário -> 
-cadastrar ou remover livro.
-cadastrar ou remover autor.
-
-se leitor -> 
-pesquisa o nome do autor e aparece os livros do mesmo
-seleciona o livro que queira avaliar e resenha do mesmo se quiser
-
-
-
-
-# banco de dados em .json
+# BANCO DE DADOS EM .JSON
 Ter um banco de dados de autores e seus respectivos livros, junto com a nota.
-Ter um bando de dados de leitores e bibliotecários 
-
-
-
-arte do cadastro do livro irá ter; título, ano de publicação, nome do autor.
-Login de matrícula, seja bibliotecário que cadastra o livro e leitor que procura o livro e o avalia
-Pesquisa de nome do autor onde você consegue ver os livros cadastrados (que sejam do autor).
-
+Ter um bando de dados de leitores e bibliotecários, separados.
+Ter um banco de dados das resenhas juntamente com seu titulo.

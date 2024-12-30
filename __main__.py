@@ -1,2 +1,2 @@
-class Pessoa:
+class Livro:
     
