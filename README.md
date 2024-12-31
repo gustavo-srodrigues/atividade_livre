@@ -1,11 +1,10 @@
-# Algoritmo de postagem e avaliação de livros, uma mini biblioteca de livros.
-# Mithrandir Livros #
+Algoritmo de postagem e avaliação de livros, uma mini biblioteca de livros.
+# Mithrandir Livros
 ## CADASTRO
 ### Seleção de ocupação
 |
 Bibliotecário(a) ou Leitor(a)? (B/L) (login com matrícula)
 |
-
 
 ### Verificação de matrícula
 |
