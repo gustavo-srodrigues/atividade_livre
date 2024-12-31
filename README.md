@@ -3,31 +3,31 @@ Algoritmo de postagem e avaliação de livros, uma mini biblioteca de livros.
 ## CADASTRO
 ### Seleção de ocupação
 |
-Bibliotecário(a) ou Leitor(a)? (B/L) (login com matrícula)
+Monitor(a) ou Leitor(a)? (M/L) (login com código de login)
 |
-
+    
 ### Criação de cadastro
-Nome, idade, leitor ou bibliotecário -> 
-se leitor -> fazer matricula de 6 digitos
-se bibliotecário -> fazer matricula de 4 digitos
+Nome, idade, leitor ou Monitor -> 
+se leitor -> fazer código de login de 5 digitos
+se Monitor -> fazer código de login de 3 digitos
 
-### Verificação de matrícula
+### Verificação de código de login
 |
-se matricula não existir
+se código de login não existir
 encaminha p/ cadastro
 |
-se matricula existir encaminhar para menu de respectiva ocupação
+se código de login existir encaminhar para menu de respectiva ocupação
 
 
 ### Finalização de cadastro
 MENSAGEM ( Bem Vindo(a) $NOME$!)
 MENSAGEM (Você agora é um(a) leitor(a) do Mithrandir Livros!)
 ou 
-MENSAGEM (Você agora é um(a) bibliotecário(a) do Mithrandir Livros! Agradecemos sua ajuda!)
+MENSAGEM (Você agora é um(a) Monitor(a) do Mithrandir Livros! Agradecemos sua ajuda!)
 
 
 ## MENU
-### Bibliotecário
+### Monitor
 1. Cadastrar obra; 
 [Nome do autor, Título do livro, Ano de publicação]
 (deseja cadastrar mais algum autor? S) -> REPETE
@@ -105,5 +105,5 @@ se não-> (nenhum livro avaliado ainda...)
 
 ## BANCO DE DADOS EM .JSON
 Ter um banco de dados de autores e seus respectivos livros, junto com a nota.
-Ter um bando de dados de leitores e bibliotecários, separados.
+Ter um bando de dados de leitores e Monitores, separados.
 Ter um banco de dados das resenhas juntamente com seu titulo.
