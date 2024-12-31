@@ -6,6 +6,11 @@ Algoritmo de postagem e avaliação de livros, uma mini biblioteca de livros.
 Bibliotecário(a) ou Leitor(a)? (B/L) (login com matrícula)
 |
 
+### Criação de cadastro
+Nome, idade, leitor ou bibliotecário -> 
+se leitor -> fazer matricula de 6 digitos
+se bibliotecário -> fazer matricula de 4 digitos
+
 ### Verificação de matrícula
 |
 se matricula não existir
@@ -13,10 +18,6 @@ encaminha p/ cadastro
 |
 se matricula existir encaminhar para menu de respectiva ocupação
 
-### Criação de cadastro
-Nome, idade, leitor ou bibliotecário -> 
-se leitor -> fazer matricula de 6 digitos
-se bibliotecário -> fazer matricula de 4 digitos
 
 ### Finalização de cadastro
 MENSAGEM ( Bem Vindo(a) $NOME$!)
