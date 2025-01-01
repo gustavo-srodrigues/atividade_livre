@@ -71,7 +71,7 @@ while validacao != True:
     validacao = ehIdade(idade)
 dados_leitor.append(idade)
 
-# criação de código de login leitor
+# criação e validação de código de login leitor
 codigo = input("Digite um código de login que desejas que contenha 5 digitos: ")
 validacao = ehCodigoLeitor(codigo)
 while validacao != True:
