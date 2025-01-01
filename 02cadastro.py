@@ -107,6 +107,5 @@ dados_usuario.append(codigo)
 user = Usuario(dados_usuario[0], dados_usuario[1], dados_usuario[2])
 user_db = [user.__dict__]
 
-
 with open (CAMINHO_ARQUIVO, 'w') as arquivo:
     json.dump(user_db, arquivo, ensure_ascii=False, indent=2)
