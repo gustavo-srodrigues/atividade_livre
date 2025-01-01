@@ -1,4 +1,3 @@
-import json 
 import re
 
 CAMINHO_ARQUIVO = 'tinydb_usuários.py'
@@ -81,6 +80,3 @@ dados_leitor.append(codigo)
 
 
 print(f"Olá leitor seu nome é {dados_leitor[0]}, você tem {dados_leitor[1]} ano(s) e seu código de login é {dados_leitor[2]}")
-
-#with open(CAMINHO_ARQUIVO, 'w') as arquivo:
-#json.dump(bd, arquivo)
