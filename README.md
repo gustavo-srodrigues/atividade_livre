@@ -7,7 +7,7 @@ Monitor(a) ou Leitor(a)? (M/L) (login com código de login)
 |
     
 ### Criação de cadastro
-Nome, idade, leitor ou Monitor -> 
+Nome, leitor ou Monitor -> 
 se leitor -> fazer código de login de 5 digitos
 se Monitor -> fazer código de login de 3 digitos
 
