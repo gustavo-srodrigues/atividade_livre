@@ -8,41 +8,21 @@
         "titulo_livro": "Fúria Vermelha",  
         "titulo_resenha": "Meh",  
         "texto": "marro menos esse livrin"  
-    },  
-    {  
-        "titulo_livro": "The Great Gatsby",  
-        "titulo_resenha": "A Classic",  
-        "texto": "A beautifully written tale of love and loss."  
-    },  
+    },   
     {  
         "titulo_livro": "1984",  
         "titulo_resenha": "Perturbador",  
         "texto": "Uma visão sombria do futuro que nos faz refletir."  
-    },  
-    {  
-        "titulo_livro": "Pride and Prejudice",  
-        "titulo_resenha": "Timeless Romance",  
-        "texto": "A delightful exploration of love and social standing."  
-    },  
+    },    
     {  
         "titulo_livro": "Dom Casmurro",  
         "titulo_resenha": "Intrigante",  
         "texto": "A complexidade das relações humanas é bem retratada."  
-    },  
-    {  
-        "titulo_livro": "To Kill a Mockingbird",  
-        "titulo_resenha": "Powerful",  
-        "texto": "A profound commentary on justice and morality."  
-    },  
+    },    
     {  
         "titulo_livro": "A Moreninha",  
         "titulo_resenha": "Romântico",  
         "texto": "Uma história de amor que encanta e emociona."  
-    },  
-    {  
-        "titulo_livro": "The Catcher in the Rye",  
-        "titulo_resenha": "Relatable",  
-        "texto": "A raw and honest look at teenage angst."  
     },  
     {  
         "titulo_livro": "Memórias Póstumas de Brás Cubas",  
