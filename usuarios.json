@@ -10,11 +10,6 @@
         "tipo": "Leitor"
     },
     {
-        "nome": "Gustavo",
-        "codigo": "12345",
-        "tipo": "Leitor"
-    },
-    {
         "nome": "mauricio",
         "codigo": "345",
         "tipo": "Monitor"
@@ -31,7 +26,7 @@
     },
     {
         "nome": "gustavo",
-        "codigo": "12345",
+        "codigo": "12325",
         "tipo": "Leitor"
     },
     {
