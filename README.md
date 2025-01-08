@@ -6,11 +6,8 @@
 **Cadastro**
 - **Seleção de Ocupação**: Usuário escolhe entre Monitor(a) ou Leitor(a).
 - **Criação de Cadastro**:
-  - Leitores recebem um código de login de 5 dígitos.
-  - Monitores recebem um código de login de 3 dígitos.
-- **Verificação de Código de Login**: 
-  - Se o código não existir, o usuário é encaminhado para o cadastro.
-  - Se existir, é direcionado ao menu correspondente.
+  - Leitores fazem seu próprio código de login de 5 dígitos.
+  - Monitores fazem seu próprio código de login de 3 dígitos.
 - **Finalização de Cadastro**: Mensagens de boas-vindas personalizadas.
 
 **Menu de Opções**
