@@ -1,0 +1,67 @@
+[
+    {
+        "nome": "Gustavo",
+        "codigo": "123",
+        "tipo": "Monitor"
+    },
+    {
+        "nome": "Gustavo",
+        "codigo": "12345",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "Gustavo",
+        "codigo": "12345",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "mauricio",
+        "codigo": "345",
+        "tipo": "Monitor"
+    },
+    {
+        "nome": "mauricio",
+        "codigo": "123",
+        "tipo": "Monitor"
+    },
+    {
+        "nome": "Gustavo",
+        "codigo": "12345",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "gustavo",
+        "codigo": "12345",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "luis",
+        "codigo": "123",
+        "tipo": "Monitor"
+    },
+    {
+        "nome": "renato",
+        "codigo": "67482",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "luis fabiano",
+        "codigo": "342",
+        "tipo": "Monitor"
+    },
+    {
+        "nome": "sergio",
+        "codigo": "09990",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "vanessa",
+        "codigo": "23082",
+        "tipo": "Leitor"
+    },
+    {
+        "nome": "graciete",
+        "codigo": "02092",
+        "tipo": "Leitor"
+    }
+]
