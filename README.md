@@ -1,4 +1,4 @@
-**Resumo do README - Mithrandir Livros**
+#Mithrandir Livros**
 
 **Descrição Geral**
 - O Mithrandir Livros é um algoritmo para postagem e avaliação de livros, funcionando como uma mini biblioteca.
