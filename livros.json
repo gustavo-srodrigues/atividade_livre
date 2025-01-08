@@ -1,0 +1,236 @@
+[
+    {
+        "autor": "Patrick Rothfuss",
+        "titulo": "O Nome do Vento",
+        "ano": "2007",
+        "notas": [
+            9.0,
+            5.0
+        ]
+    },
+    {
+        "autor": "J.R.R. Tolkien",
+        "titulo": "A Sociedade do Anel",
+        "ano": "1954",
+        "notas": [
+            9.0,
+            8.0,
+            10.0,
+            10.0,
+            10.0,
+            9.9
+            
+        ]
+    },
+    {
+        "autor": "George Orwell",
+        "titulo": "1984",
+        "ano": "1949",
+        "notas": [
+            10.0,
+            8.5, 
+            4
+        ]
+    },
+    {
+        "autor": "J.K. Rowling",
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "ano": "1997",
+        "notas": [
+            9.5,
+            9.0
+        ]
+    },
+    {
+        "autor": "F. Scott Fitzgerald",
+        "titulo": "O Grande Gatsby",
+        "ano": "1925",
+        "notas": [
+            9.0,
+            8.5
+        ]
+    },
+    {
+        "autor": "Harper Lee",
+        "titulo": "O Sol é para Todos",
+        "ano": "1960",
+        "notas": [
+            10.0,
+            9.5,
+            5.4,
+            9.0
+        ]
+    },
+    {
+        "autor": "Leo Tolstoy",
+        "titulo": "Guerra e Paz",
+        "ano": "1869",
+        "notas": [
+            8.5,
+            9.0
+        ]
+    },
+    {
+        "autor": "J.R.R. Tolkien",
+        "titulo": "O Hobbit",
+        "ano": "1937",
+        "notas": [
+            9.5,
+            9.0
+        ]
+    },
+    {
+        "autor": "Gabriel Garcia Marquez",
+        "titulo": "Cem Anos de Solidão",
+        "ano": "1967",
+        "notas": [
+            10.0,
+            9.5
+        ]
+    },
+    {
+        "autor": "Jane Austen",
+        "titulo": "Orgulho e Preconceito",
+        "ano": "1813",
+        "notas": [
+            8.0,
+            9.0
+        ]
+    },
+    {
+        "autor": "F. Scott Fitzgerald",
+        "titulo": "Suave é a Noite",
+        "ano": "1934",
+        "notas": [
+            8.5,
+            8.0
+        ]
+    },
+    {
+        "autor": "J.K. Rowling",
+        "titulo": "Harry Potter e a Câmara Secreta",
+        "ano": "1998",
+        "notas": [
+            9.0,
+            9.5
+        ]
+    },
+    {
+        "autor": "Franz Kafka",
+        "titulo": "A Metamorfose",
+        "ano": "1915",
+        "notas": [
+            8.5,
+            8.0,
+            7.0
+        ]
+    },
+    {
+        "autor": "Albert Camus",
+        "titulo": "O Estrangeiro",
+        "ano": "1942",
+        "notas": [
+            9.0,
+            8.5
+        ]
+    },
+    {
+        "autor": "Mark Twain",
+        "titulo": "As Aventuras de Huckleberry Finn",
+        "ano": "1884",
+        "notas": [
+            8.5,
+            9.0
+        ]
+    },
+    {
+        "autor": "Victoria Aveyard",
+        "titulo": "A Rainha Vermelha",
+        "ano": "2015",
+        "notas": [
+            6.5,
+            6.2
+        ]
+    },
+    {
+        "autor": "Patrick Rothfuss",
+        "titulo": "o temor do sabio",
+        "ano": "2011",
+        "notas": [
+            10.0,
+            10.0
+        ]
+    },
+    {
+        "autor": "Stephen King",
+        "titulo": "misery",
+        "ano": "1987",
+        "notas": [
+            6.1,
+            6.7
+        ]
+    },
+    {
+        "autor": "Stephen King",
+        "titulo": "a dança da morte",
+        "ano": "1978",
+        "notas": [
+            6.2,
+            9.5
+        ]
+    },
+    {
+        "autor": "Bernard Cornwell",
+        "titulo": "O rei do inverno",
+        "ano": "1995",
+        "notas": [
+            7.0,
+            9.9
+        ]
+    },
+    {
+        "autor": "Bernard Cornwell",
+        "titulo": "O inimigo de Deus",
+        "ano": "1996",
+        "notas": [
+            6.9,
+            9.8
+        ]
+    },
+    {
+        "autor": "Frank Herbert",
+        "titulo": "Messias de Duna",
+        "ano": "1969",
+        "notas": [
+            6.9,
+            8.5
+        ]
+    },
+    {
+        "autor": "Bernard Cornwell",
+        "titulo": "excalibur",
+        "ano": "1997",
+        "notas": [
+            6.1,
+            8.5
+        ]
+    },
+    {
+        "autor": "Frank Herbert",
+        "titulo": "Duna",
+        "ano": "1965",
+        "notas": [
+            7.0,
+            10.0
+        ]
+    },
+    {
+        "autor": "Stephen King",
+        "titulo": "Carrie",
+        "ano": "Carrie",
+        "notas": [
+            2.0,
+            6.6
+        ]
+    }
+]
